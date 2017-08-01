@@ -1,2 +1,2 @@
 # ANLY560HimangshuPal
-My first work on GitHub.
+This repository is to keep all my work of ANLY560.
