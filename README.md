@@ -1,2 +1,2 @@
 # ANLY560HimangshuPal
-This repository is to keep all my work of ANLY560.
+This repository is to store all my work done for ANLY560.
