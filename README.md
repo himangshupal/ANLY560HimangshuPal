@@ -1,2 +1,2 @@
 # ANLY560HimangshuPal
-This repository is to store all my work done for ANLY560.
+This repository is to store all my codes and data for my ANLY560 course.
