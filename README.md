@@ -1,2 +1,2 @@
 # ANLY560HimangshuPal
-My first work in GitHub.
+My first work on GitHub.
